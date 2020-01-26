@@ -6,4 +6,4 @@ def speak_to_grandma(phrase)
  "HUGH?! SPEAK UP, SUNNY!"
  else
    "NO, NOT SINCE 1938!"
-  end
+end
